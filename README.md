@@ -1,1 +1,1 @@
-start glo.html
+start index.html
